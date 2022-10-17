@@ -1,0 +1,1 @@
+ini adalah contoh dan praktik sederhana dalam memahami pemrograman bahasa python
